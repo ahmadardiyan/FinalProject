@@ -1,0 +1,40 @@
+{
+	"places":[
+		{
+			"lokasi":[-7.622487, 110.241963], 
+			"sponsor" : "Home Sweet Home", 
+			"gambar":"img/mcn.jpg", 
+			"review":"Rumah saya,harta yang paling berharga adalah keluarga..."
+		},
+		{
+			"lokasi":[-7.620711, 110.242043], 
+			"sponsor" : "TPQ Al-Izzah",
+			"gambar":"img/tpq.jpg", 
+			"review":"Tempat mengaji anak-anak dusun Macanan"
+		},
+		{
+			"lokasi":[-7.621715, 110.242529], 
+			"sponsor" : "Musholah Al-Falah", 
+			"gambar":"img/al-falah.jpg", 
+			"review": "Tempat belajar mengaji saya"
+		},
+		{
+			"lokasi":[-7.620376, 110.242677], 
+			"sponsor" : "Masjid Al-Amin", 
+			"gambar":"img/al-amin.jpg", 
+			"review":"Tempat Ibadah"
+		},
+		{
+			"lokasi":[-7.620066, 110.242478], 
+			"sponsor" : "Musholah As Syaiun", 
+			"gambar":"img/mcn.jpg", 
+			"review":"Musholah Tempat mengaji"
+		},
+		{
+			"lokasi":[-7.619763, 110.242626], 
+			"sponsor" : "Macanan Ground", 
+			"gambar":"img/mcn.jpg", 
+			"review":"Outbond Macanan"
+		}
+	]
+}
